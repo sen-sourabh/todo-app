@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\info\\source\\repos\\TodoListAPI\\TodoListAPI\\TodoListAPI.csproj": {}
+    "C:\\Quasar\\todo-app\\todo-app\\todobackend\\TodoListAPI\\TodoListAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\info\\source\\repos\\TodoListAPI\\TodoListAPI\\TodoListAPI.csproj": {
+    "C:\\Quasar\\todo-app\\todo-app\\todobackend\\TodoListAPI\\TodoListAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\info\\source\\repos\\TodoListAPI\\TodoListAPI\\TodoListAPI.csproj",
+        "projectUniqueName": "C:\\Quasar\\todo-app\\todo-app\\todobackend\\TodoListAPI\\TodoListAPI.csproj",
         "projectName": "TodoListAPI",
-        "projectPath": "C:\\Users\\info\\source\\repos\\TodoListAPI\\TodoListAPI\\TodoListAPI.csproj",
-        "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\info\\source\\repos\\TodoListAPI\\TodoListAPI\\obj\\",
+        "projectPath": "C:\\Quasar\\todo-app\\todo-app\\todobackend\\TodoListAPI\\TodoListAPI.csproj",
+        "packagesPath": "C:\\Users\\Sourabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Quasar\\todo-app\\todo-app\\todobackend\\TodoListAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sourabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
